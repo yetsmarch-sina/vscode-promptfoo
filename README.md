@@ -3,8 +3,8 @@
 Visualization of the configuration file for the [PromptFoo](https://www.promptfoo.dev/) project.
 
 ## Usage
-
-1. Trigger `Promtfoo Configuration: Render` to see yaml flow.
+1. Open `promptfooconfig.yaml` file
+1. Trigger `Promtfoo: Render` to see yaml flow.
 1. Trigger `Promptfoo: Evaluate` to get evaluate result.
 
 ## Render Language Support
